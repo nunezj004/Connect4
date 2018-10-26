@@ -461,8 +461,5 @@ public class connect4GUI extends JFrame{
 		
 	}
 	
-		
-		
-		
 	}
 
